@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="serval">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/serval/serval.zip!/" />
+      <root url="jar://$PROJECT_DIR$/serval/tpo4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
